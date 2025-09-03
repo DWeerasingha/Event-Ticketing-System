@@ -1,0 +1,535 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\event ticket handling\\attendeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\attendeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Modified - 3 - Copy\\Event Ticket Handling\\Event Ticket Handling\\Ticket Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\event ticket handling\\attendee registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\attendee registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\event ticket handling\\attendee login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\attendee login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\adminfeedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\adminfeedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\event ticket handling\\adminfeedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\adminfeedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\ticket purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\ticket purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\event ticket handling\\ticket purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\ticket purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\event ticket handling\\admin dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\admin dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\event ticket handling\\admin login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\admin login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\event ticket handling\\event manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\event manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\event ticket handling\\feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\event ticket handling\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\event ticket handling\\my tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\my tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\event ticket handling\\ticket manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\ticket manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\event ticket handling\\view attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\view attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\event ticket handling\\view sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\view sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\attendeehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\attendeehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\feedbackmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\feedbackmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\attendee registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\attendee registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\feedbackform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\feedbackform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\event manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\event manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\view attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\view attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\attendee login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\attendee login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\admin login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\admin login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|c:\\users\\admin\\desktop\\final project\\sdam_event_ticket_handling\\event ticket handling\\my tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EBDEDF-645B-41BA-8875-CF6C8DC43A39}|Event Ticket Handling\\SDAM_Event Ticket Handling.csproj|solutionrelative:event ticket handling\\my tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attendee Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Attendee Registration.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\Attendee Registration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\Attendee Registration.cs [Design]",
+              "RelativeToolTip": "..\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\Attendee Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T05:46:15.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttendeeDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\AttendeeDashboard.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\AttendeeDashboard.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\AttendeeDashboard.cs [Design]",
+              "RelativeToolTip": "Event Ticket Handling\\AttendeeDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T06:42:52.612Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Admin.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\Admin.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Admin.cs",
+              "RelativeToolTip": "Event Ticket Handling\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T06:13:21.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Attendee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Attendee.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\Attendee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Attendee.cs",
+              "RelativeToolTip": "Event Ticket Handling\\Attendee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:40:18.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Attendee Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Attendee Login.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\Attendee Login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\Attendee Login.cs [Design]",
+              "RelativeToolTip": "..\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\Attendee Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T10:23:21.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminFeedbackForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\AdminFeedbackForm.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\AdminFeedbackForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\AdminFeedbackForm.cs",
+              "RelativeToolTip": "Event Ticket Handling\\AdminFeedbackForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T05:40:46.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminFeedbackForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\AdminFeedbackForm.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\AdminFeedbackForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\AdminFeedbackForm.cs [Design]",
+              "RelativeToolTip": "..\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\AdminFeedbackForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T01:25:18.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ticket Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Ticket Purchase.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\Ticket Purchase.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Ticket Purchase.cs",
+              "RelativeToolTip": "Event Ticket Handling\\Ticket Purchase.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:13:11.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ticket Purchase.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Ticket Purchase.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\Ticket Purchase.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\Ticket Purchase.cs [Design]",
+              "RelativeToolTip": "..\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\Ticket Purchase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:21:24.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Admin Dashboard.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\Admin Dashboard.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\Admin Dashboard.cs [Design]",
+              "RelativeToolTip": "..\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\Admin Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T05:53:11.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Admin Login.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\Admin Login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\Admin Login.cs [Design]",
+              "RelativeToolTip": "..\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\Admin Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:39:34.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Event Manager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Event Manager.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\Event Manager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\Event Manager.cs [Design]",
+              "RelativeToolTip": "..\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\Event Manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:05:43.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FeedbackForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\FeedbackForm.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\FeedbackForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\FeedbackForm.cs [Design]",
+              "RelativeToolTip": "..\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\FeedbackForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T05:57:32.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Form1.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T06:41:57.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "My Tickets.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\My Tickets.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\My Tickets.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\My Tickets.cs [Design]",
+              "RelativeToolTip": "..\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\My Tickets.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:00:34.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ticket Manager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Ticket Manager.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\Ticket Manager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\Ticket Manager.cs [Design]",
+              "RelativeToolTip": "..\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\Ticket Manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T09:02:28.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "View Attendee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\View Attendee.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\View Attendee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\View Attendee.cs [Design]",
+              "RelativeToolTip": "..\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\View Attendee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:26:33.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "View Sales.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\View Sales.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\View Sales.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\View Sales.cs [Design]",
+              "RelativeToolTip": "..\\Modified - 4\\Event Ticket Handling\\Event Ticket Handling\\View Sales.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T09:02:41.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticket Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Modified - 3 - Copy\\Event Ticket Handling\\Event Ticket Handling\\Ticket Manager.cs",
+              "RelativeDocumentMoniker": "..\\..\\Modified - 3 - Copy\\Event Ticket Handling\\Event Ticket Handling\\Ticket Manager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Modified - 3 - Copy\\Event Ticket Handling\\Event Ticket Handling\\Ticket Manager.cs",
+              "RelativeToolTip": "..\\..\\Modified - 3 - Copy\\Event Ticket Handling\\Event Ticket Handling\\Ticket Manager.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAwwHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T15:02:18.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AttendeeHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\AttendeeHelper.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\AttendeeHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\AttendeeHelper.cs",
+              "RelativeToolTip": "Event Ticket Handling\\AttendeeHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:58:31.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\TicketService.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\TicketService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\TicketService.cs",
+              "RelativeToolTip": "Event Ticket Handling\\TicketService.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:17:00.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FeedbackManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\FeedbackManager.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\FeedbackManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\FeedbackManager.cs",
+              "RelativeToolTip": "Event Ticket Handling\\FeedbackManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:51:27.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\EventService.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\EventService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\EventService.cs",
+              "RelativeToolTip": "Event Ticket Handling\\EventService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:50:35.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Event.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\Event.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Event.cs",
+              "RelativeToolTip": "Event Ticket Handling\\Event.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:50:32.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Attendee Registration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Attendee Registration.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\Attendee Registration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Attendee Registration.cs",
+              "RelativeToolTip": "Event Ticket Handling\\Attendee Registration.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T05:46:20.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FeedbackForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\FeedbackForm.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\FeedbackForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\FeedbackForm.cs",
+              "RelativeToolTip": "Event Ticket Handling\\FeedbackForm.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T06:05:53.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FeedbackForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\FeedbackForm.Designer.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\FeedbackForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\FeedbackForm.Designer.cs",
+              "RelativeToolTip": "Event Ticket Handling\\FeedbackForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:26:40.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Event Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Event Manager.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\Event Manager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Event Manager.cs",
+              "RelativeToolTip": "Event Ticket Handling\\Event Manager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:20:25.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "View Attendee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\View Attendee.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\View Attendee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\View Attendee.cs",
+              "RelativeToolTip": "Event Ticket Handling\\View Attendee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:26:36.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Attendee Login.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Attendee Login.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\Attendee Login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Attendee Login.cs",
+              "RelativeToolTip": "Event Ticket Handling\\Attendee Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:35:28.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Admin Login.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Admin Login.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\Admin Login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Admin Login.cs",
+              "RelativeToolTip": "Event Ticket Handling\\Admin Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:30:09.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Form1.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\Form1.cs",
+              "RelativeToolTip": "Event Ticket Handling\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:46:24.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "My Tickets.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\My Tickets.cs",
+              "RelativeDocumentMoniker": "Event Ticket Handling\\My Tickets.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Final Project\\SDAM_Event_Ticket_Handling\\Event Ticket Handling\\My Tickets.cs",
+              "RelativeToolTip": "Event Ticket Handling\\My Tickets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:00:37.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

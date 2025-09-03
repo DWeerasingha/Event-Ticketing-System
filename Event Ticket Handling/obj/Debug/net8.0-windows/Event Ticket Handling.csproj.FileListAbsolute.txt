@@ -1,0 +1,366 @@
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Admin_Login.resources
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Form1.resources
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.AssemblyInfo.cs
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.exe
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.deps.json
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.runtimeconfig.json
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.pdb
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\refint\Event Ticket Handling.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.pdb
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.genruntimeconfig.cache
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\ref\Event Ticket Handling.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Event_Manager.resources
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Admin_Dashboard.resources
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ti.EB759811.Up2Date
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Ticket_Manager.resources
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Attendee_Login.resources
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Attendee_registration.resources
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.AttendeeDashboard.resources
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.My_Tickets.resources
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Ticket_Purchase.resources
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.View_Attendee.resources
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.View_Sales.resources
+C:\Users\User\source\repos\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.sourcelink.json
+L:\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.dll
+L:\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\refint\Event Ticket Handling.dll
+L:\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.pdb
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.exe
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.deps.json
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.runtimeconfig.json
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.pdb
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Admin_Dashboard.resources
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Admin_Login.resources
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Attendee_Login.resources
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Attendee_Registration.resources
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.AttendeeDashboard.resources
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Event_Manager.resources
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Form1.resources
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.My_Tickets.resources
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Ticket_Manager.resources
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Ticket_Purchase.resources
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.View_Attendee.resources
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.View_Sales.resources
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.sourcelink.json
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ti.EB759811.Up2Date
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\refint\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.pdb
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\ref\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Final Project\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Properties.Resources.resources
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.exe
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.deps.json
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.runtimeconfig.json
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.pdb
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Admin_Dashboard.resources
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Admin_Login.resources
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Attendee_Login.resources
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Attendee_Registration.resources
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.AttendeeDashboard.resources
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Event_Manager.resources
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Form1.resources
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.My_Tickets.resources
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Properties.Resources.resources
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.PurchaseForm.resources
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Ticket_Manager.resources
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Ticket_Purchase.resources
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.View_Attendee.resources
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.View_Sales.resources
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.sourcelink.json
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ti.EB759811.Up2Date
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\refint\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.pdb
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Modified - 1\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\ref\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.exe
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.deps.json
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.runtimeconfig.json
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.pdb
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Admin_Dashboard.resources
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Admin_Login.resources
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Attendee_Login.resources
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Attendee_Registration.resources
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.AttendeeDashboard.resources
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Event_Manager.resources
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.FeedbackForm.resources
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Form1.resources
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.My_Tickets.resources
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Properties.Resources.resources
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.PurchaseForm.resources
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Ticket_Manager.resources
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Ticket_Purchase.resources
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.View_Attendee.resources
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.View_Sales.resources
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.sourcelink.json
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ti.EB759811.Up2Date
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\refint\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.pdb
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Modified - 2\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\ref\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.exe
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.deps.json
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.runtimeconfig.json
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.pdb
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Admin_Dashboard.resources
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Admin_Login.resources
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.AdminFeedbackForm.resources
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Attendee_Login.resources
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Attendee_Registration.resources
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.AttendeeDashboard.resources
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Event_Manager.resources
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.FeedbackForm.resources
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Form1.resources
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.My_Tickets.resources
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Properties.Resources.resources
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.PurchaseForm.resources
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Ticket_Manager.resources
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Ticket_Purchase.resources
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.View_Attendee.resources
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.View_Sales.resources
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.sourcelink.json
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ti.EB759811.Up2Date
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\refint\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.pdb
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Modified - 3\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\ref\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.exe
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.deps.json
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.runtimeconfig.json
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.pdb
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Admin_Dashboard.resources
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Admin_Login.resources
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.AdminFeedbackForm.resources
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Attendee_Login.resources
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Attendee_Registration.resources
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.AttendeeDashboard.resources
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Event_Manager.resources
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.FeedbackForm.resources
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Form1.resources
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.My_Tickets.resources
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Properties.Resources.resources
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.PurchaseForm.resources
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Ticket_Manager.resources
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Ticket_Purchase.resources
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.View_Attendee.resources
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.View_Sales.resources
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.sourcelink.json
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ti.EB759811.Up2Date
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\refint\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.pdb
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Modified - 3 - Copy\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\ref\Event Ticket Handling.dll
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.AssemblyReference.cache
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Admin_Dashboard.resources
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Admin_Login.resources
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.AdminFeedbackForm.resources
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Attendee_Login.resources
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Attendee_Registration.resources
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.AttendeeDashboard.resources
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Event_Manager.resources
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.FeedbackForm.resources
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Form1.resources
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.My_Tickets.resources
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Properties.Resources.resources
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Ticket_Manager.resources
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Ticket_Purchase.resources
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.View_Attendee.resources
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.View_Sales.resources
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.GenerateResource.cache
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.GeneratedMSBuildEditorConfig.editorconfig
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.AssemblyInfoInputs.cache
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.AssemblyInfo.cs
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.CoreCompileInputs.cache
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.sourcelink.json
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.dll
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\refint\Event Ticket Handling.dll
+L:\Modified\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.pdb
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Admin_Dashboard.resources
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Admin_Login.resources
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.AdminFeedbackForm.resources
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Attendee_Login.resources
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Attendee_Registration.resources
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.AttendeeDashboard.resources
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Event_Manager.resources
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.FeedbackForm.resources
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Form1.resources
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.My_Tickets.resources
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Properties.Resources.resources
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Ticket_Manager.resources
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.Ticket_Purchase.resources
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.View_Attendee.resources
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event_Ticket_Handling.View_Sales.resources
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\refint\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.pdb
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.exe
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.deps.json
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.runtimeconfig.json
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Event Ticket Handling.pdb
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ti.EB759811.Up2Date
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\Event Ticket Handling.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Final Project\Modified - 4\Event Ticket Handling\Event Ticket Handling\obj\Debug\net8.0-windows\ref\Event Ticket Handling.dll
